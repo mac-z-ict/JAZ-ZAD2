@@ -1,0 +1,15 @@
+/home/student/Dokumenty/zad2/src/main/java/domain/ConferenceApplication.java
+/home/student/Dokumenty/zad2/src/main/java/servlets/SetPremiumServlet.java
+/home/student/Dokumenty/zad2/src/main/java/domain/menu.java
+/home/student/Dokumenty/zad2/src/main/java/repositories/ConferenceApplicationRepository.java
+/home/student/Dokumenty/zad2/src/main/java/repositories/DummyConferenceApplicationRepository.java
+/home/student/Dokumenty/zad2/src/main/java/servlets/PremiumServlet.java
+/home/student/Dokumenty/zad2/src/main/java/servlets/ProfilServlet.java
+/home/student/Dokumenty/zad2/src/main/java/web/filters/SetPremiumPageFilter.java
+/home/student/Dokumenty/zad2/src/main/java/web/filters/MainPageFilter.java
+/home/student/Dokumenty/zad2/src/main/java/web/filters/AddPageFilter.java
+/home/student/Dokumenty/zad2/src/main/java/web/AddServlet.java
+/home/student/Dokumenty/zad2/src/main/java/servlets/ListServlet.java
+/home/student/Dokumenty/zad2/src/main/java/servlets/LoginServlet.java
+/home/student/Dokumenty/zad2/src/main/java/web/filters/PremiumPageFilter.java
+/home/student/Dokumenty/zad2/src/main/java/repositories/HsqlRepo.java
